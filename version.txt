@@ -1,3 +1,3 @@
-version=1.0.2
+version=1.0.3
 url=https://raw.githubusercontent.com/suguru1022-tech/pos-software-update/main/POS商品補充確認.exe
-sha256=2976dc3b2d18d8137ea4894eb2650874469b466ce35694860b4dfd0b52dbadbd
+sha256=6be38162448302b7dcd2a3aebe1c8b36f99f33815e1e5f73f220b73dd6dbca89
